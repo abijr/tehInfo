@@ -11,5 +11,5 @@ To add info to cards, select the cards in the browsing page in anki. Then select
 ##Customize
 It's fairly straightforward to add not-included info to cards with this add-on. You just need to add the .tsv (tab separated values) file to the info folder and add the name of the info (or title or whatever) to the "sources" map in the "addtehinfo . py" file.
 
-
+##Support
 For questions, problems, or suggestions please file an issue at github.
